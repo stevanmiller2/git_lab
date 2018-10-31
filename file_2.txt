@@ -1,0 +1,4 @@
+file 2:
+this is a sample text
+
+Hello git
